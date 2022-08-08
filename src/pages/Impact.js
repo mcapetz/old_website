@@ -265,7 +265,7 @@ const Impact = () => {
             <div className="group text-center">
               <p className="text-black font-bold italic">{"Electric Fish"}</p>
               <p className="text-black text-sm font-semibold">
-                Fremont // June-August 2022
+                Fremont // June-September 2022
               </p>
               <p className="">
                 Build community resilience algorithm using data science and{" "}

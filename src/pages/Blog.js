@@ -51,8 +51,8 @@ const Blog = () => {
                 description="'nature is not only beautiful or nostalgic', ritcher once remarked, but also 'always against us, because it knows no meaning, no pity, no sympathy, because it knows nothing and is absolutely mindless: the total antithesis of ourselves, absolutely inhuman'"
               ></AltEntry>
               <Entry
-                title="Not much to see here yet"
-                description="More coming soon"
+                title="pareto principle"
+                description="roughly 80% of consequences come from 20% of causes"
               ></Entry>
               <Entry
                 title="Not much to see here yet"

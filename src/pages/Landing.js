@@ -12,6 +12,8 @@ import { Link } from "react-router-dom";
 
 // const scroll = new LocomotiveScroll();
 
+// NOTE TO SELF : TO UPDATE, JUST SAVE THEN RUN npm run deploy
+
 const Landing = () => {
   return (
     <div>

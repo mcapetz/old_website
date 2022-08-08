@@ -1,16 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.0742790a.js",
+    "main.css": "/static/css/main.edae9296.css",
+    "main.js": "/static/js/main.e1158417.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/redwoods.jpg": "/static/media/redwoods.36572baf233a4b62f9be.jpg",
+    "static/media/joshua.jpg": "/static/media/joshua.bda9c27a6ecb95c36d40.jpg",
+    "static/media/mushroom.jpg": "/static/media/mushroom.405ba8c27791a312687d.jpg",
+    "static/media/ccc.png": "/static/media/ccc.ab24d0602401b65e2fd8.png",
+    "static/media/flower.jpg": "/static/media/flower.fd273cc87541ed3c6d9c.jpg",
+    "static/media/moon.jpg": "/static/media/moon.a93dee5b71b9c6344c54.jpg",
+    "static/media/oal.png": "/static/media/oal.a68fdfc9fc559dafe348.png",
+    "static/media/fin.png": "/static/media/fin.793b3a73cbfeccad2712.png",
+    "static/media/nature.png": "/static/media/nature.521a6d454fe9f43dbd3b.png",
+    "static/media/swe.png": "/static/media/swe.60810f0ebaa875a17b51.png",
+    "static/media/linkedin.svg": "/static/media/linkedin.56dcf975a197dd2f95a0c6ea5b1da398.svg",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.0742790a.js.map": "/static/js/main.0742790a.js.map",
+    "static/media/github.svg": "/static/media/github.ba28805fea4f5062e4f0e8cdd4488488.svg",
+    "main.edae9296.css.map": "/static/css/main.edae9296.css.map",
+    "main.e1158417.js.map": "/static/js/main.e1158417.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.0742790a.js"
+    "static/css/main.edae9296.css",
+    "static/js/main.e1158417.js"
   ]
 }

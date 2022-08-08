@@ -18,8 +18,11 @@ const NavBar = () => {
         >
           mc.
         </div>
-        <div className="flex flex-row px-5 gap-5 sm:gap-10 self-center">
-          <Link to="/story" className="hover:italic text-md sm:text-xl">
+        <div className="flex flex-row px-5 gap-5 sm:gap-10 self-center bg-white rounded-md bg-opacity-80">
+          <Link
+            to="/story"
+            className="hover:italic text-md sm:text-xl opacity-100"
+          >
             story.
           </Link>
           <Link to="/projects" className="hover:italic text-md sm:text-xl">

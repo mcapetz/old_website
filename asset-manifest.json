@@ -1,12 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.ddf4380d.css",
-    "main.js": "/static/js/main.c3406d5c.js",
+    "main.js": "/static/js/main.48e5604d.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/redwoods.jpg": "/static/media/redwoods.36572baf233a4b62f9be.jpg",
     "static/media/joshua.jpg": "/static/media/joshua.bda9c27a6ecb95c36d40.jpg",
+    "static/media/Greenwashing.png": "/static/media/Greenwashing.8ade10ebc60167fb6740.png",
     "static/media/mushroom.jpg": "/static/media/mushroom.405ba8c27791a312687d.jpg",
     "static/media/ccc.png": "/static/media/ccc.ab24d0602401b65e2fd8.png",
+    "static/media/KaoGPT.png": "/static/media/KaoGPT.7e82cd3139875afa52bd.png",
     "static/media/flower.jpg": "/static/media/flower.fd273cc87541ed3c6d9c.jpg",
     "static/media/moon.jpg": "/static/media/moon.a93dee5b71b9c6344c54.jpg",
     "static/media/oal.png": "/static/media/oal.a68fdfc9fc559dafe348.png",
@@ -17,11 +19,11 @@
     "index.html": "/index.html",
     "static/media/github.svg": "/static/media/github.ba28805fea4f5062e4f0e8cdd4488488.svg",
     "main.ddf4380d.css.map": "/static/css/main.ddf4380d.css.map",
-    "main.c3406d5c.js.map": "/static/js/main.c3406d5c.js.map",
+    "main.48e5604d.js.map": "/static/js/main.48e5604d.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ddf4380d.css",
-    "static/js/main.c3406d5c.js"
+    "static/js/main.48e5604d.js"
   ]
 }

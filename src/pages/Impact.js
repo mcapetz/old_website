@@ -203,7 +203,7 @@ const Impact = () => {
           <Animator animation={MoveIn(-2000, 0)}>
             <div className="font-rubik group text-center">
               <p className="text-black text-md font-bold italic">
-                {"Green Team"}
+                {"LAHS Green Team"}
               </p>
               <p className="text-black text-sm font-semibold">
                 Los Altos // June 2020-21
@@ -263,7 +263,7 @@ const Impact = () => {
         <div className="font-rubik flex flex-col gap-10 align-center justify-center">
           <Animator animation={MoveIn(-1000, 0)}>
             <div className="group text-center">
-              <p className="text-black font-bold italic">{"Electric Fish"}</p>
+              <p className="text-black font-bold italic">{"Electric Fish - Software Engineer Intern"}</p>
               <p className="text-black text-sm font-semibold">
                 Fremont // June-September 2022
               </p>
@@ -279,6 +279,27 @@ const Impact = () => {
                 >
                   Discover more ↗
                 </a>
+              </div>
+            </div>
+          </Animator>
+          <Animator animation={MoveIn(1000, 0)}>
+          <div className="group text-center">
+              <p className="text-black font-bold italic">{"ScAI Lab - Machine Learning Researcher"}</p>
+              <p className="text-black text-sm font-semibold">
+                UCLA // Jan 2023 - Present
+              </p>
+              <p className="">
+                Learn Graph Convolutional Networks (GCNS) {" "}
+                <br /> for power grid applications
+              </p>
+              <div>
+                {/* <a
+                  className="text-sm text-main underline cursor-default"
+                  onClick={() => window.open("https://electricfish.co")}
+                  href="https://electricfish.co"
+                >
+                  Discover more ↗
+                </a> */}
               </div>
             </div>
           </Animator>

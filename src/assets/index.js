@@ -11,3 +11,5 @@ export { default as Moon } from "./moon.jpg";
 export { default as Flower } from "./flower.jpg";
 export { default as Redwoods } from "./redwoods.jpg";
 export { default as Mushroom } from "./mushroom.jpg";
+export { default as Greenwashing } from "./Greenwashing.png";
+export { default as KaoGPT } from "./KaoGPT.png";

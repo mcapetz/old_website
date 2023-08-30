@@ -55,8 +55,8 @@ const Blog = () => {
                 description="roughly 80% of consequences come from 20% of causes"
               ></Entry>
               <Entry
-                title="Not much to see here yet"
-                description="More coming soon"
+                title="seattle"
+                description="is so beautiful in the summertime"
               ></Entry>
               <AltEntry
                 title="Not much to see here yet"

@@ -32,9 +32,9 @@ const Landing = () => {
                 {/* <p className="text-xl sm:text-3xl">
                   I value empowerment, authenticity, and drive.
                 </p> */}
-                <p className="bg-blue2 p-2 rounded-md w-fit text-white italic hover:text-black hover:bg-main">
+                {/* <p className="bg-blue2 p-2 rounded-md w-fit text-white italic hover:text-black hover:bg-main">
                   I value empowerment, authenticity, and drive.
-                </p>
+                </p> */}
                 <p className="bg-blue2 p-2 rounded-md w-fit text-white italic hover:text-black hover:bg-main">
                   Talk to me about climate tech!
                 </p>
